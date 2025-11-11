@@ -1,0 +1,287 @@
+{
+  "extensionName": {
+    "message": "Cookie 导出工具"
+  },
+  "chinese": {
+    "message": "中文"
+  },
+  "english": {
+    "message": "English"
+  },
+  "french": {
+    "message": "Français"
+  },
+  "extensionDescription": {
+    "message": "将浏览器 cookie 导出为多种格式的文件"
+  },
+  "exportTab": {
+    "message": "导出"
+  },
+  "importTab": {
+    "message": "导入"
+  },
+  "manageTab": {
+    "message": "管理"
+  },
+  "exportCurrent": {
+    "message": "导出当前网站 Cookie"
+  },
+  "exportAll": {
+    "message": "导出所有 Cookie"
+  },
+  "copyCurrent": {
+    "message": "复制当前网站 Cookie"
+  },
+  "copyAll": {
+    "message": "复制所有 Cookie"
+  },
+  "importCookies": {
+    "message": "导入 Cookies"
+  },
+  "exportOptions": {
+    "message": "导出选项"
+  },
+  "domainFilter": {
+    "message": "域名过滤:"
+  },
+  "domainFilterPlaceholder": {
+    "message": "例如: example.com"
+  },
+  "domainFilterAriaLabel": {
+    "message": "按域名过滤 cookies"
+  },
+  "exportFormat": {
+    "message": "导出格式:"
+  },
+  "exportFormatAriaLabel": {
+    "message": "选择导出格式"
+  },
+  "secureOnly": {
+    "message": "仅安全 Cookies (HTTPS)"
+  },
+  "secureOnlyAriaLabel": {
+    "message": "仅导出安全 cookies"
+  },
+  "httpOnly": {
+    "message": "仅 HTTP-Only Cookies"
+  },
+  "httpOnlyAriaLabel": {
+    "message": "仅导出 HTTP-Only cookies"
+  },
+  "importFormat": {
+    "message": "导入格式:"
+  },
+  "importFormatAriaLabel": {
+    "message": "选择导入文件格式"
+  },
+  "selectFile": {
+    "message": "选择要导入的文件"
+  },
+  "selectFileAriaLabel": {
+    "message": "选择要导入的文件"
+  },
+  "copyToClipboard": {
+    "message": "复制到剪贴板"
+  },
+  "copied": {
+    "message": "已复制!"
+  },
+  "exportSuccess": {
+    "message": "Cookie 导出成功!"
+  },
+  "importSuccess": {
+    "message": "成功导入 {{count}} 个 Cookies"
+  },
+  "exporting": {
+    "message": "正在导出..."
+  },
+  "importing": {
+    "message": "正在导入..."
+  },
+  "exportCurrentLoading": {
+    "message": "正在导出当前网站 Cookie..."
+  },
+  "exportAllLoading": {
+    "message": "正在导出所有 Cookie..."
+  },
+  "importLoading": {
+    "message": "正在导入 Cookies..."
+  },
+  "refreshCookies": {
+    "message": "刷新 Cookie 列表"
+  },
+  "deleteAllCookies": {
+    "message": "删除所有 Cookie"
+  },
+  "loadingCookies": {
+    "message": "正在加载 Cookie 列表..."
+  },
+  "deleteCookie": {
+    "message": "删除"
+  },
+  "confirmDeleteCookie": {
+    "message": "确定要删除这个 Cookie 吗？"
+  },
+  "confirmDeleteAllCookies": {
+    "message": "确定要删除所有 Cookie 吗？此操作不可撤销。"
+  },
+  "cookiesLoaded": {
+    "message": "已加载 {{count}} 个 Cookie"
+  },
+  "cookieDeleted": {
+    "message": "Cookie 已删除"
+  },
+  "allCookiesDeleted": {
+    "message": "所有 Cookie 已删除"
+  },
+  "error": {
+    "message": "错误"
+  },
+  "fileReadError": {
+    "message": "读取文件时发生错误"
+  },
+  "selectFileError": {
+    "message": "请选择要导入的文件"
+  },
+  "copyFailed": {
+    "message": "复制到剪贴板失败"
+  },
+  "unknownDomain": {
+    "message": "unknown-domain"
+  },
+  "showExpiredCookies": {
+    "message": "显示已过期 Cookie"
+  },
+  "showActiveCookies": {
+    "message": "显示有效 Cookie"
+  },
+  "dragAndDropHint": {
+    "message": "拖放 Cookie 文件到此处或点击选择文件"
+  },
+  "browseFiles": {
+    "message": "浏览文件"
+  },
+  "invalidMessageSource": {
+    "message": "无效的消息来源"
+  },
+  "invalidUrlParameter": {
+    "message": "无效的URL参数"
+  },
+  "invalidUrlFormat": {
+    "message": "无效的URL格式"
+  },
+  "getCookiesFailed": {
+    "message": "获取 Cookies 失败"
+  },
+  "unsupportedFileFormat": {
+    "message": "不支持的文件格式"
+  },
+  "jsonFormat": {
+    "message": "JSON"
+  },
+  "csvFormat": {
+    "message": "CSV"
+  },
+  "xmlFormat": {
+    "message": "XML"
+  },
+  "netscapeFormat": {
+    "message": "Netscape Cookie"
+  },
+  "jsonParseError": {
+    "message": "JSON 解析失败"
+  },
+  "invalidCsvFormat": {
+    "message": "CSV 数据格式不正确"
+  },
+  "unknownAction": {
+    "message": "未知的操作"
+  },
+  "importFailed": {
+    "message": "导入失败"
+  },
+  "deleteCookieFailed": {
+    "message": "删除 Cookie 失败"
+  },
+  "downloadFailed": {
+    "message": "下载失败"
+  },
+  "validationError": {
+    "message": "验证过程中发生错误"
+  },
+  "detailedError": {
+    "message": "详细错误"
+  },
+  "selectedFile": {
+    "message": "已选择文件"
+  },
+  "sessionCookie": {
+    "message": "会话 Cookie"
+  },
+  "path": {
+    "message": "路径"
+  },
+  "expiration": {
+    "message": "过期时间"
+  },
+  "expired": {
+    "message": "已过期"
+  },
+  "active": {
+    "message": "有效"
+  },
+  "secure": {
+    "message": "安全"
+  },
+  "yes": {
+    "message": "是"
+  },
+  "no": {
+    "message": "否"
+  },
+  "none": {
+    "message": "无"
+  },
+  "viewDetails": {
+    "message": "查看详情"
+  },
+  "name": {
+    "message": "名称"
+  },
+  "value": {
+    "message": "值"
+  },
+  "domain": {
+    "message": "域名"
+  },
+  "creationTime": {
+    "message": "创建时间"
+  },
+  "hostOnly": {
+    "message": "主机Only"
+  },
+  "session": {
+    "message": "会话"
+  },
+  "searchPlaceholder": {
+    "message": "搜索Cookie名称或域名..."
+  },
+  "closeModalText": {
+    "message": "×"
+  },
+  "cookieCountInitialText": {
+    "message": "Cookies: 0"
+  },
+  "cookieDetailsTitle": {
+    "message": "Cookie 详情"
+  },
+  "unknown": {
+    "message": "未知"
+  },
+  "progressInitialText": {
+    "message": "0%"
+  },
+  "languageChanged": {
+    "message": "语言已切换为:"
+  }
+}
